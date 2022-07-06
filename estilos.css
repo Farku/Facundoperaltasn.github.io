@@ -1,0 +1,29 @@
+
+
+body{
+        
+         
+    }
+    .registro{
+        background-color:#a9fadb;
+        font-style: oblique;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        align-items: center;
+        border-style: inset;
+        padding: 20px;
+        margin: auto;
+        border-radius: 25px;
+        width: 400px;
+        text-align:center
+    
+        }
+    input{
+        height: 35px;
+    width: 400px;
+    }
+    .boton{
+        font-style: oblique;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        width: 164px;
+        background-color: #3cc93f
+    }
