@@ -1,0 +1,75 @@
+div{
+    border-style: dotted;
+    padding-left: 50px;
+    position:relative
+}
+
+.Elemento1{
+    background: rgba(111, 231, 111, 0.61);
+    border-color: green;
+    width: 700px;
+    height: 100px;
+    line-height: 100px;
+    text-align:justify;
+    top: 80px;
+   left: 50px;
+   font-style: oblique;
+   z-index: 6;
+
+}
+.Elemento2{
+    background: rgba(173, 216, 230, 0.61);
+    border-color: blue;
+    width: 700px;
+    height: 100px;
+    line-height: 100px;
+    top: 330px;
+   left: 50px;
+   font-style: oblique;
+   z-index: 1;
+   
+}
+.Elemento3{
+    background: rgba(255, 192, 203, 0.61);
+    border-color: rgb(243, 106, 129);
+    width: 500px;
+    height: 400px;
+    line-height: 300px;
+    top: -100px;
+   margin-left: 280px;
+   font-style: oblique;
+   z-index: 2;
+}
+.Elemento4{
+    background: rgba(253, 181, 155, 0.61);
+    border-color: rgb(247, 145, 108);
+    width: 400px;
+    height: 170px;
+    line-height: 100px;
+    top: -460px;
+    margin-left: 340px;
+   font-style: oblique;
+  z-index: 5;
+}
+.Elemento5{
+    background: rgba(243, 202, 127, 0.61);
+    border-color: orange;
+    width: 400px;
+    height: 70px;
+    top: -370px;
+   margin-left: 330px;
+   font-style: oblique;
+   z-index: 3;
+}
+.Elemento6{
+    background: rgba(129, 129, 245, 0.61);
+    border-color: blue;
+    width: 200px;
+    height: 330px;
+    text-align: center;
+    line-height: 300px;
+    top: -730px;
+   margin-left: 500px;
+   font-style: oblique;
+  z-index: 4;
+}
