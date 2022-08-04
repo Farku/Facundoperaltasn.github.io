@@ -1,0 +1,33 @@
+.navbar{
+    background-color: #183654;
+}
+.navbar-nav{
+
+    font-style: oblique;
+    
+}
+.nav-link{
+    color: aliceblue;
+}
+.nav-link_active{
+    color: aliceblue;
+}
+.Mica {
+    width: 300px;
+}
+
+#pie {
+    width: max-content;
+    height: max-content;
+    background-position: 100%;
+}
+#Contacto{
+   
+        padding: 20px;
+        margin: auto;
+        border-radius: 25px;
+        width: 400px;
+        text-align:center
+    
+        }
+    
